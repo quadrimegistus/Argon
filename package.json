@@ -7,7 +7,7 @@
     "@fullcalendar/core": "4.0.2",
     "@fullcalendar/daygrid": "4.0.1",
     "@fullcalendar/interaction": "4.0.2",
-    "chart.js": "2.8.0",
+    "chart.js": "2.9.4",
     "classnames": "2.2.6",
     "dropzone": "5.5.1",
     "gh-pages": "^2.1.1",
